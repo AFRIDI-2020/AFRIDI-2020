@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afridi Mahafuz</h1>
-<h3 align="center">I've more than 3 years of professional experience with Flutter. Responsive UI design, writing clean, maintainable code, and solving complex problems made my journey deliver exceptional results. I always love to work in a team. I always focus on understanding the project's goals, and visions and implement the best solutions to deliver the project timely.</h3>
+<h3 align="center">I've almost 4 years of professional experience with Flutter. Responsive UI design, writing clean, maintainable code, and solving complex problems made my journey deliver exceptional results. I always love to work in a team. I always focus on understanding the project's goals, and visions and implement the best solutions to deliver the project timely.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afridi-2020&label=Profile%20views&color=0e75b6&style=flat" alt="afridi-2020" /> </p>
 
